@@ -42,11 +42,8 @@ window.addEventListener('scroll', () => {
 const downloadMBtn = document.getElementById('download-m');
 const downloadIntelBtn = document.getElementById('download-intel');
 
-// Link ai DMG su GitHub Releases
-const DOWNLOAD_LINKS = {
-    appleSilicon: 'https://github.com/Alekkk777/Tell_Me_More/releases/download/v2.0.0/Tells_me_More_2.0.0_Apple_Silicon.dmg',
-    intel: 'https://github.com/Alekkk777/Tell_Me_More/releases/download/v2.0.0/Tells_me_More_2.0.0_Intel.dmg'
-};
+// Link al DMG Apple Silicon su GitHub Releases
+const DOWNLOAD_LINK = 'https://github.com/Alekkk777/Tell_Me_More/releases/download/v2.0.0/Tells_me_More_2.0.0_Apple_Silicon.dmg';
 
 downloadMBtn.addEventListener('click', (e) => {
     e.preventDefault();
@@ -55,18 +52,18 @@ downloadMBtn.addEventListener('click', (e) => {
     console.log('Download iniziato: Apple Silicon');
 
     // Avvia il download del DMG
-    window.location.href = DOWNLOAD_LINKS.appleSilicon;
+    window.location.href = DOWNLOAD_LINK;
 });
 
-downloadIntelBtn.addEventListener('click', (e) => {
-    e.preventDefault();
-
-    // Analisi evento (opzionale: aggiungi qui il tuo tracking)
-    console.log('Download iniziato: Intel Mac');
-
-    // Avvia il download del DMG
-    window.location.href = DOWNLOAD_LINKS.intel;
-});
+// Intel Mac - Coming Soon (disabled)
+// Il bottone è già disabilitato nell'HTML, quindi questo listener non è necessario
+// ma lo lasciamo per completezza
+if (downloadIntelBtn && !downloadIntelBtn.disabled) {
+    downloadIntelBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        console.log('Intel version: Coming soon');
+    });
+}
 
 // ====================================
 // Survey Button
