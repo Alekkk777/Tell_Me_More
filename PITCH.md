@@ -49,7 +49,7 @@ Tells me More è un'applicazione desktop per Mac che:
 - 🎁 **Trial gratuito** valido fino al 30 Dicembre 2025
 
 ### Download
-Scarica gratis: [GitHub Releases](https://github.com/Alekkk777/whisper-student/releases/tag/v2.0.0)
+Scarica gratis: [GitHub Releases](https://github.com/Alekkk777/Tell_Me_More/releases/tag/v2.0.0)
 
 ---
 

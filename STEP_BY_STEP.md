@@ -1,6 +1,6 @@
 # 🚀 Guida Passo-Passo - Tell Me More
 
-**Repository GitHub**: https://github.com/Alekkk777/whisper-student
+**Repository GitHub**: https://github.com/Alekkk777/Tell_Me_More
 **Vercel**: Già collegato ✅
 
 ---

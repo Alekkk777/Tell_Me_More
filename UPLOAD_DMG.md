@@ -14,7 +14,7 @@
 
 ### 1. Apri GitHub Releases
 
-Vai su: **https://github.com/Alekkk777/whisper-student/releases/new**
+Vai su: **https://github.com/Alekkk777/Tell_Me_More/releases/new**
 
 ### 2. Compila i Campi
 
@@ -129,7 +129,7 @@ Made with ❤️ by Alessandro Saladino
 Il DMG sarà disponibile a questo link:
 
 ```
-https://github.com/Alekkk777/whisper-student/releases/download/v2.0.0/Tells_me_More_2.0.0_Apple_Silicon.dmg
+https://github.com/Alekkk777/Tell_Me_More/releases/download/v2.0.0/Tells_me_More_2.0.0_Apple_Silicon.dmg
 ```
 
 Questo è esattamente il link già configurato nel sito web! 🎉
