@@ -68,23 +68,12 @@ if (downloadIntelBtn && !downloadIntelBtn.disabled) {
 // ====================================
 // Survey Button
 // ====================================
-const surveyBtn = document.getElementById('survey-btn');
-
-// TODO: Sostituisci questo URL con il link al tuo sondaggio
-const SURVEY_URL = 'https://forms.google.com/your-survey-link';
-
-surveyBtn.addEventListener('click', (e) => {
-    e.preventDefault();
-
-    // Analisi evento (opzionale: aggiungi qui il tuo tracking)
-    console.log('Sondaggio aperto');
-
-    // TODO: Quando hai il link al sondaggio, decommentare questa riga:
-    // window.open(SURVEY_URL, '_blank');
-
-    // Per ora mostra un alert
-    alert('📊 Grazie per il tuo interesse!\n\nIl sondaggio si aprirà in una nuova finestra.\n\nInserire qui il link al sondaggio quando sarà pronto.');
-});
+// Link del sondaggio ora gestito direttamente nell'HTML
+// const surveyBtn = document.getElementById('survey-btn');
+// surveyBtn.addEventListener('click', (e) => {
+//     // Opzionale: aggiungi qui il tuo tracking analytics
+//     console.log('Sondaggio aperto');
+// });
 
 // ====================================
 // Animate on Scroll (Observer API)
