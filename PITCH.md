@@ -44,12 +44,12 @@ Tells me More è un'applicazione desktop per Mac che:
 - 💼 Professionisti: sbobina riunioni e conferenze
 
 ### Stato Attuale
-- ✅ **Versione 1.0.0 disponibile** per Apple Silicon (M1/M2/M3/M4)
+- ✅ **Versione 2.0.0 disponibile** per Apple Silicon (M1/M2/M3/M4)
 - 🚧 **In sviluppo**: Versione Intel Mac e Windows
 - 🎁 **Trial gratuito** valido fino al 30 Dicembre 2025
 
 ### Download
-Scarica gratis: [GitHub Releases](https://github.com/Alekkk777/Tell_Me_More/releases/tag/v1.0.0)
+Scarica gratis: [GitHub Releases](https://github.com/Alekkk777/whisper-student/releases/tag/v2.0.0)
 
 ---
 

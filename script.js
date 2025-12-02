@@ -43,7 +43,7 @@ const downloadMBtn = document.getElementById('download-m');
 const downloadIntelBtn = document.getElementById('download-intel');
 
 // Link al DMG Apple Silicon su GitHub Releases
-const DOWNLOAD_LINK = 'https://github.com/Alekkk777/Tell_Me_More/releases/download/v1.0.0/Tells.me.More_1.0.0_aarch64.dmg';
+const DOWNLOAD_LINK = 'https://github.com/Alekkk777/whisper-student/releases/download/v2.0.0/Tells_me_More_2.0.0_Apple_Silicon.dmg';
 
 downloadMBtn.addEventListener('click', (e) => {
     e.preventDefault();

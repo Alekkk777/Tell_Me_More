@@ -1,6 +1,6 @@
 # 🚀 Guida Passo-Passo - Tell Me More
 
-**Repository GitHub**: https://github.com/Alekkk777/Tell_Me_More
+**Repository GitHub**: https://github.com/Alekkk777/whisper-student
 **Vercel**: Già collegato ✅
 
 ---
@@ -43,7 +43,7 @@ Questo copierà i DMG sul Desktop con nomi chiari:
 
 ### 2.1 Crea un nuovo Release
 
-1. Vai su: https://github.com/Alekkk777/Tell_Me_More/releases/new
+1. Vai su: https://github.com/Alekkk777/whisper-student/releases/new
 
 2. Compila i campi:
    - **Tag version**: `v2.0.0`
@@ -107,12 +107,12 @@ Dopo la pubblicazione, i link saranno:
 
 **Apple Silicon:**
 ```
-https://github.com/Alekkk777/Tell_Me_More/releases/download/v2.0.0/Tells_me_More_2.0.0_Apple_Silicon.dmg
+https://github.com/Alekkk777/whisper-student/releases/download/v2.0.0/Tells_me_More_2.0.0_Apple_Silicon.dmg
 ```
 
 **Intel:**
 ```
-https://github.com/Alekkk777/Tell_Me_More/releases/download/v2.0.0/Tells_me_More_2.0.0_Intel.dmg
+https://github.com/Alekkk777/whisper-student/releases/download/v2.0.0/Tells_me_More_2.0.0_Intel.dmg
 ```
 
 ✅ **I link sono già configurati nel sito!** Il codice `script.js` punta già a questi URL.
@@ -266,8 +266,8 @@ Il tuo sito è online con:
 ### Link Importanti:
 
 **Sito Web**: https://tell-me-more.vercel.app
-**Repository**: https://github.com/Alekkk777/Tell_Me_More
-**Releases**: https://github.com/Alekkk777/Tell_Me_More/releases
+**Repository**: https://github.com/Alekkk777/whisper-student
+**Releases**: https://github.com/Alekkk777/whisper-student/releases
 **Vercel Dashboard**: https://vercel.com/dashboard
 
 ---
